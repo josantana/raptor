@@ -1,2 +1,2 @@
 # raptor
-Just a Qwik Deno 
+Just a "Qwik Deno"
